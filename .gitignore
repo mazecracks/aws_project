@@ -18,4 +18,5 @@ target/
 dbt_packages/
 logs/
 
+setup_guide.txt
 
